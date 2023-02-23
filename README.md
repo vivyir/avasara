@@ -1,6 +1,7 @@
 <p align="center">
   <img width="%100" src="https://github.com/vivyir/avasara/blob/master/avasara.png" />
 </p>
+
 # Name
 Pronounced: Âvâ sarâ (normal a = the a in cat, â as in the a in car)
 From persian origin and means "Composer of hymns" but more poetic
