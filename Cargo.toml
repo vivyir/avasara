@@ -1,0 +1,19 @@
+[package]
+name = "avasara"
+version = "0.1.0"
+edition = "2021"
+
+[[example]]
+name = "avasara-demo-basic"
+path = "examples/avasara-demo-basic.rs"
+
+[[example]]
+name = "avasara-demo-full"
+path = "examples/avasara-demo-full.rs"
+
+[dependencies]
+symphonia = { version = "0.5.1", features = ["isomp4", "aac", "alac", "mp3"] }
+fon = "0.6.0"
+pitch-detection = "0.3.0"
+vorbis_rs = "0.1.0"
+optivorbis = "0.1.2"
